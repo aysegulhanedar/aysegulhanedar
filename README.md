@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 💻 **Elektrik-Elektronik Mühendisiyim**  
 ⚡ Flutter & Firebase geliştiricisiyim  
-📚 Şu anda **Oku World** projesi üzerinde çalışıyorum  
+📚 Şu anda **Oku World**, **Storify**,**Textly** projeleri üzerinde çalışıyorum  
 🌍 [okuworld.com](https://okuworld.com)
 
 ---
